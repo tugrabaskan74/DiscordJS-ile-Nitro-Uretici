@@ -34,7 +34,7 @@ function spamla(){
 	message.channel.send("https:/"+"/discord.gift/" + rasteleSembol(16,'0aA'));
 }
 
-	if (message.channel.id = "ID NUMARASI"){
+	if (message.channel.id = "806197633344471110"){
 		if(message.content.startsWith("hrr!nitro ")){
 		try{
 		var veri = message.content.toString();
